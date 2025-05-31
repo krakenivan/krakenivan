@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/ivan-ivanov-120b08362/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://t.me/ivanmadloba">
+    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)">
+  </a>
 </div>
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/ivanmadloba)
 
